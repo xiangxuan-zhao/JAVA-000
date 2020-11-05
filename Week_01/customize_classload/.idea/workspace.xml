@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3e05559e-1c0b-42aa-9dd2-248603d851ce" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="IgnoredFileRootStore">
+    <option name="generatedRoots">
+      <set>
+        <option value="$PROJECT_DIR$/.idea" />
+      </set>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="userSettingsFile" value="$USER_HOME$/apache-maven-3.6.0/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenRunner">
+    <option name="vmOptions" value="-DarchetypeCatalog=internal" />
+  </component>
+  <component name="ProjectId" id="1jC3Bi16d9mjpmpZ94Vi6wpl6Xp" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+    <option name="showMembers" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="reference.settings.project.maven.runner" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.HelloClassLoad">
+    <configuration name="Hello" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.zxx.demo.Hello" />
+      <module name="customize_classload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.zxx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="HelloClassLoad" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="org.zxx.demo.HelloClassLoad" />
+      <module name="customize_classload" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="org.zxx.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.HelloClassLoad" />
+        <item itemvalue="Application.Hello" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3e05559e-1c0b-42aa-9dd2-248603d851ce" name="Default Changelist" comment="" />
+      <created>1603294112116</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1603294112116</updated>
+      <workItem from="1603294114487" duration="4445000" />
+    </task>
+    <task id="LOCAL-00001" summary="修改">
+      <created>1603299731607</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1603299731607</updated>
+    </task>
+    <task id="LOCAL-00002" summary="jvm内存参数关系">
+      <created>1603300676680</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1603300676680</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="修改" />
+    <MESSAGE value="jvm内存参数关系" />
+    <option name="LAST_COMMIT_MESSAGE" value="jvm内存参数关系" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1603294127854">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="184" y="113" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1440.900@0.0.1440.900" timestamp="1603294127854" />
+    <state x="432" y="260" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1603298783807">
+      <screen x="0" y="0" width="1440" height="900" />
+    </state>
+    <state x="432" y="260" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1440.900@0.0.1440.900" timestamp="1603298783807" />
+    <state x="221" y="57" key="CommitChangelistDialog2" timestamp="1603300676384">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="221" y="50" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1603299731212" />
+    <state x="221" y="57" key="CommitChangelistDialog2/0.23.1440.833@0.23.1440.833" timestamp="1603300676384" />
+    <state width="1398" height="457" key="GridCell.Tab.0.bottom" timestamp="1603300693848">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="181" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603299739626" />
+    <state width="1398" height="457" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1603300693848" />
+    <state width="1398" height="457" key="GridCell.Tab.0.center" timestamp="1603300693847">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="181" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1603299739624" />
+    <state width="1398" height="457" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1603300693847" />
+    <state width="1398" height="457" key="GridCell.Tab.0.left" timestamp="1603300693847">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="181" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1603299739623" />
+    <state width="1398" height="457" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1603300693847" />
+    <state width="1398" height="457" key="GridCell.Tab.0.right" timestamp="1603300693848">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="181" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1603299739625" />
+    <state width="1398" height="457" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1603300693848" />
+    <state width="1398" height="457" key="GridCell.Tab.1.bottom" timestamp="1603300693849">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="457" key="GridCell.Tab.1.bottom/0.0.1440.900@0.0.1440.900" timestamp="1603298094557" />
+    <state width="1398" height="457" key="GridCell.Tab.1.bottom/0.23.1440.833@0.23.1440.833" timestamp="1603300693849" />
+    <state width="1398" height="457" key="GridCell.Tab.1.center" timestamp="1603300693849">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="457" key="GridCell.Tab.1.center/0.0.1440.900@0.0.1440.900" timestamp="1603298094556" />
+    <state width="1398" height="457" key="GridCell.Tab.1.center/0.23.1440.833@0.23.1440.833" timestamp="1603300693849" />
+    <state width="1398" height="457" key="GridCell.Tab.1.left" timestamp="1603300693848">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="457" key="GridCell.Tab.1.left/0.0.1440.900@0.0.1440.900" timestamp="1603298094555" />
+    <state width="1398" height="457" key="GridCell.Tab.1.left/0.23.1440.833@0.23.1440.833" timestamp="1603300693848" />
+    <state width="1398" height="457" key="GridCell.Tab.1.right" timestamp="1603300693849">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state width="1398" height="457" key="GridCell.Tab.1.right/0.0.1440.900@0.0.1440.900" timestamp="1603298094557" />
+    <state width="1398" height="457" key="GridCell.Tab.1.right/0.23.1440.833@0.23.1440.833" timestamp="1603300693849" />
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2" timestamp="1603300678677">
+      <screen x="0" y="23" width="1440" height="833" />
+    </state>
+    <state x="320" y="167" key="Vcs.Push.Dialog.v2/0.23.1440.833@0.23.1440.833" timestamp="1603300678677" />
+  </component>
+</project>
