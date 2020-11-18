@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+       <!--
+       1.使用默认构造函数
+       使用bean标签，配置id和class属性后，没有其它属性和标签，采用默认构造函数创建Bean。没有默认构造函数无法创建。
+       -->
+      <!-- <bean id="accountService" class="org.load.service.impl.AccountServiceImpl" />-->
+       <!--
+         2. 使用某个类中的方法创建bean（比如工厂方法）
+       -->
+     <!--  <bean id="instanceFactory" class="org.load.factory.InstanceFactory"/>
+       <bean id="accountService" factory-bean="instanceFactory" factory-method="getAccountService"/>-->
+       <!--
+       3.静态工厂方法
+       -->
+       <bean id="accountService" class="org.load.factory.StaticFactory" factory-method="getAccountService"/>
+</beans>
